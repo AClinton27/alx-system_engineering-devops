@@ -18,3 +18,4 @@
 17. 17-hidethisword
 18. 18-letteronly
 19. 19-AZ
+20. 20-hiago
