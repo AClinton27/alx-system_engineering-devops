@@ -4,3 +4,4 @@
 3.  3-twofiles
 4. 4-lastlines
 5. 5-firstlines
+6. 6-third_line
