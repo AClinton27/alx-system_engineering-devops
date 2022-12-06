@@ -6,3 +6,4 @@
 5. 5-firstlines
 6. 6-third_line
 7. 7-file
+8. 8-cwd_state
