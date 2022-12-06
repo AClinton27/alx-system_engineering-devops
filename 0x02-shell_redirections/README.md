@@ -17,3 +17,4 @@
 16. 16-whatsnext
 17. 17-hidethisword
 18. 18-letteronly
+19. 19-AZ
